@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "4c3775340cd673bc8845059bc1dab46c"
+build_time: [1509938354, 546468000]
+inputs:
+  "/Users/chrisconner/Desktop/Checklists/Checklists/ChecklistViewController.swift": [1508905140, 0]
+  "/Users/chrisconner/Desktop/Checklists/Checklists/AppDelegate.swift": [1508382253, 0]
